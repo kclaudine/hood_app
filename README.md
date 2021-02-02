@@ -31,10 +31,10 @@ No known bugs yet
 To start using this app you can first clone it on github
 and use visual code to writecodes
 
- ## Link of the website is:
-
-
-
+ ## Live link of the website 
+ 
+https://hoodapp1.herokuapp.com/
+ 
  ## License 
 
 MIT
