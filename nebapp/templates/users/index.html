@@ -17,12 +17,12 @@
 
         {% block content %}
         <br><br><br>
-        <div class="container">
+        <div class="container-fluid" style="background-color: aqua;">
 
             <h1 style="text-align: center;">Welcome to neighbourhood app!</h1><br>
             <h6 style="text-align:center;">{{date|date:"l d F Y"}}</h6>
 
-            <!-- <h5>HHHHHHHHHHHHHHHHHHHHH  FF</h5> -->
+          
 
             <a href="{% url 'new-hood'%}">
                 <button class="btn btn-outline-primary btn-sm">Create a hood</button>
