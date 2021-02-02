@@ -8,7 +8,7 @@ Claudine Kuradusenge
 
 ## Project description:
 
- This is an app where the user will Sign in with the application to start using,set up a profile about a user and a general location and my neighborhood name, the user will be able to find a list of different businesses in my neighborhood, the user will be able to find Contact Information for the health department and Police authorities near my neighborhood and the user will be able to Create Posts that will be visible to everyone in my neighborhood, the user will be able to change the neighborhood when he or she decide to move out.
+ This is an app where the user will Sign in with the application to start using,set up a profile about a user and a general location and my neighborhood name, the user will be able to find a list of different businesses in my neighborhood, the user will be able to find Contact Information for the health department and Police authorities near his/her  neighborhood and the user will be able to Create Posts that will be visible to everyone in his/her neighborhood, the user will be able to change the neighborhood when he or she decide to move out.
 
  ## Technology used:
 
@@ -32,7 +32,7 @@ To start using this app you can first clone it on github
 and use visual code to writecodes
 
  ## Live link of the website 
- 
+
 https://hoodapp1.herokuapp.com/
  
  ## License 
