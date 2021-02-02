@@ -18,6 +18,10 @@ Claudine Kuradusenge
 * Postgressql
 * Heroku
 
+## Bugs
+
+No known bugs yet
+
  ## Link of the website is:
 
 
