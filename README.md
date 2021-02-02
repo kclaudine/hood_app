@@ -18,6 +18,10 @@ Claudine Kuradusenge
 * Postgressql
 * Heroku
 
+## Installing dependencies
+
+`pip install -r requirements.txt`
+
 ## Bugs
 
 No known bugs yet
