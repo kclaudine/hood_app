@@ -12,11 +12,11 @@ Claudine Kuradusenge
 
  ## Technology used:
 
- Python3.6
- Bootstrap3
- Django Framework
- Postgressql
- Heroku
+* Python3.6
+* Bootstrap3
+* Django Framework
+* Postgressql
+* Heroku
 
  ## Link of the website is:
 
