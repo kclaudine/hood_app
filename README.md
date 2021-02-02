@@ -24,7 +24,7 @@ Claudine Kuradusenge
 
  ## License 
 
-MI
+MIT
 
 
 
