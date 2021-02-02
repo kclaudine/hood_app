@@ -22,6 +22,11 @@ Claudine Kuradusenge
 
 No known bugs yet
 
+## Project instruction 
+
+To start using this app you can first clone it on github
+and use visual code to writecodes
+
  ## Link of the website is:
 
 
